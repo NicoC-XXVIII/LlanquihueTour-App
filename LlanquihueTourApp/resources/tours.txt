@@ -1,0 +1,5 @@
+Lago Llanquihue;Puerto Varas;31-12;20000;turístico
+Ruta Gastronómica;Puerto Varas;01-01;28000;gastronómico
+Volcán Osorno;Ensenada;05-02;35000;cultural
+Paseo Costanera;Llanquihue;12-0215000;turístico
+Museo Alemán;Frutillar;28-02;6000;cultural
